@@ -22,7 +22,7 @@ ext_modules = [
 
 setup(
     name='Python DMC',
-    version='0.1',
+    version='0.2',
     author='Jake Heinz',
     author_email='me@jh.gg',
     url="http://github.com/jhgg/pydmc",
